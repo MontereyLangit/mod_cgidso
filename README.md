@@ -69,7 +69,7 @@ apxs -q INCLUDEDIR
 
 <h2>サーバ負荷対策 Tips</h2>
     <div>
-        <p><a href="dccache.html" title="&lt;!--#flastmod virtual='dccache.html' --&gt;">
+        <p><a href="https://sunos.saita.ma/dccache.html" title="&lt;!--#flastmod virtual='dccache.html' --&gt;">
             CGI 出力キャッシュ</a>で述べているように，mod_mem_cache の利用は負荷軽減にはかなり効果的です．</p>
         <p>Apache 2.2 では mod_proxy_balancer というロードバランサ・負荷分散モジュールも実装されています．
             また，mod_cache / mod_proxy なども 2.0 までのものよりかなり改良されています．
