@@ -1,4 +1,5 @@
 <div>
+<a href="https://sunos.saita.ma/mod_cgidso.html">https://sunos.saita.ma/mod_cgidso.html</a> から引用<hr>
 <h1>Apache 2.x モジュール mod_cgidso</h1>
 <h2>特徴</h2>
     <div>
