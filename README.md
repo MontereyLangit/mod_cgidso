@@ -17,8 +17,8 @@
         <p><small># 本来の意味での CGI とは異なるので，モジュール名に "cgi" と入っているのは
             おかしいと言えばおかしいのですが，そこはあまり深く考えないように......</small></p>
         <p>このモジュールはマルチスレッド MPM に対応しています．</p>
-        <p><i>★ <a href="2ch-cgi-lw.html" title="&lt;!--#flastmod virtual='2ch-cgi-lw.html' --&gt;">2ch CGI 軽量化</a> や
-            <a href="http://maido3.com/server/option/ccgi.html" target="_blank">レンタルサーバ BIG-server.com オプションサービス</a>
+        <p><i>★ <a href="https://sunos.saita.ma/2ch-cgi-lw.html" title="&lt;!--#flastmod virtual='2ch-cgi-lw.html' --&gt;">2ch CGI 軽量化</a> や
+           レンタルサーバ BIG-server.com オプションサービス
             で利用して頂いています ★</i></p>
     </div>
 
