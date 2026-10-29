@@ -81,6 +81,7 @@ apxs -q INCLUDEDIR
         <!--<dt><a href="mod_cgidso.c">mod_cgidso.c</a>
             <small><i style="font-weight:normal;">size: #fsize virtual="mod_cgidso.c" bytes
             #flastmod virtual="mod_cgidso.c" </i></small></dt>-->
-        <dd>このモジュールは <a href="http://apache.org/licenses/LICENSE-2.0" target="_blank">Apache License, Version 2.0</a> に基づき提供します．</dd>
+        <dd>このモジュールは <a href="http://apache.org/licenses/LICENSE-2.0" target="_blank">Apache License, Version 2.0</a> に基づき提供します．<br>
+        Copyright (c) 2005 ◆cZfSunOs.U &lt;sunos@saita.ma&gt;</dd>
     </dl>
 </div>
